@@ -1,0 +1,16 @@
+.button1{
+    margin: -1152px 160px;
+    position: absolute;
+   color: #ffffff !important;
+    font-size: 15px !important;
+    background-color: rgb(233, 17, 46) !important;
+    font-family: cursive;
+}
+img{
+
+    padding-right: 7px;
+
+}
+.modal-dialog{
+    max-width: 1400px !important;
+}
